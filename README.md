@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=c-QsfbznSXI
 This readme is for react django 
 #setup.sh
 apt install python3.8-venv
