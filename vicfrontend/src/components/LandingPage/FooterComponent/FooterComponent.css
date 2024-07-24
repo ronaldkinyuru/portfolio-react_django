@@ -1,0 +1,120 @@
+.footercomp{
+    margin-top: 100px;
+
+
+}
+.logoj{
+    height: 40px;
+    width: 80px;
+    margin-left: 50px;
+    margin-top: 40px;
+ 
+}
+.ic{
+  
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+
+}
+
+.footerl{
+    margin-left: 250px;
+    margin-top: 10px;
+
+
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+
+}
+.flewx{
+    margin-left: 400px;
+    margin-top: 5px;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+
+
+}
+.aa{
+   color: white;
+   font-size: small;
+   font-family: 'Times New Roman';
+   text-decoration: none;
+   margin-top: 15px;
+}
+.aa:hover{
+    color: orange;
+}
+.aai{
+    color: white;
+   font-size: small;
+   font-family: 'Times New Roman';
+   text-decoration: none;
+   margin-top: 5px;
+  
+   
+}
+.flewxx{
+     margin-left: 250px;
+     margin-top: 10px;
+     display: flex;
+     flex-direction: column;
+
+}
+.aai:hover{
+    color: orange;
+
+}
+.flewxxx{
+     
+    margin-left: 300px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.aat{
+    color: white;
+    font-size: small;
+    font-family: 'Times New Roman';
+}
+.ent{
+    height: 20px;
+    border-radius: 6px;
+    border-color: white;
+}
+.sub{
+    margin-top:10px;
+    border-radius: 8px;
+    background-color:white;
+    width: 100px;
+    height: 25px;
+    color: red;
+    border-color: white;
+}
+.col{
+    display: flex;
+    flex-direction: column;
+}
+.fl{
+    display: flex;
+    flex-direction: column;
+}
+.news{
+    margin-top: 40px;
+    border-radius: 5px;
+    height: 30px;
+    color: red
+    
+}
+.copyright{
+    display: flex;
+    flex-direction: row;
+}
+.ppp{
+    margin-top: 53px;
+    color: white;
+    margin-left: 10px;
+}

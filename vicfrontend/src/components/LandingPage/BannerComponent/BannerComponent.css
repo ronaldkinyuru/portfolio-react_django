@@ -1,0 +1,29 @@
+.navigation{
+    background-image: url('https://media.istockphoto.com/id/1388388769/photo/hospital-doctors-office-portrait-of-young-promising-black-physician-works-on-laptop-computer.jpg?s=612x612&w=0&k=20&c=9b2iVOZEe3fjz7aZjGgrDdU26onBXgMe5DVBKZHcT9E='); 
+  background-size: cover; 
+  background-position: center; 
+  height: 400px;
+  text-align: center;
+  color: white;
+ 
+  
+}
+.our{
+    color: white;
+
+}
+.ourserv{
+    width: 100px;
+    height: 30px;
+    color: white;
+    border-radius:5px;
+    border-color: white;
+   
+}
+.ourservi{
+    text-decoration: none;
+    color: red;
+}
+
+
+

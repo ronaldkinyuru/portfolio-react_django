@@ -1,0 +1,61 @@
+.nav{
+    font-size: large;
+    font-family: 'Times New Roman';
+}
+.home{
+    margin-left: 200px;
+    text-decoration: none;
+    color: black;
+}
+.home:hover {
+    color:red;
+}
+.about{
+    margin-left: 200px;
+    text-decoration: none;
+    color: black;
+}
+.about:hover{
+    color: red;
+}
+.services{
+    margin-left: 200px;
+    text-decoration: none;
+    color: black;
+}
+.services:hover{
+color: red;
+}
+.contactus{
+    margin-left: 200px;
+    text-decoration: none;
+    color: black;
+}
+.contactus:hover{
+    color: red;
+}
+.login{
+ 
+    text-decoration: none;
+    color: black;
+   
+}  
+.loginbutton{
+    width: 100px;
+    height: 30px;
+    margin-left: 200px;
+    border-color: red;
+}
+.signup{
+    text-decoration: none;
+    color: white;  
+}
+.sign{
+    background-color: red;
+    width: 100px;
+    height: 30px;
+    border-color: red;
+    margin-left: 8px;
+}
+
+     

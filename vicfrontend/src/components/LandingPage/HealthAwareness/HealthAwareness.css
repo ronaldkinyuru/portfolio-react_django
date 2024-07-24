@@ -1,0 +1,40 @@
+.first{
+    background-image: url('');
+     background-size: cover;
+     width: 200px;
+     height:200px;
+}
+.diabetes{
+     color: white;
+     text-decoration: underline;
+     font-size: large;
+     font-family: Georgia, 'Times New Roman';
+     align-items: right;
+}
+.aware{
+    display: flex;
+    justify-content: row;
+    
+}
+.dis{
+    display: flex;
+    justify-content: row;
+}
+.media{
+
+    display: flex;
+    flex-direction: row;
+}
+.awares{
+     display: flex;
+     flex-direction: column;
+
+}
+.dd{
+    color: red;
+}
+.how{
+    color:orange;
+
+
+}

@@ -1,0 +1,21 @@
+.clientstories{
+    margin-left: 100px;
+}
+.play{
+    background-image: url('https://media.istockphoto.com/id/1395299543/photo/patient-doctor-online-consultation.jpg?s=612x612&w=0&k=20&c=dAuI4udFr9jMZupBjNplvuCoI4JDUPsOyMkX3Ygvzpo=');
+    width: 700px;
+    height: 400px;
+    background-size: cover;
+    color: red;
+
+
+}
+.st{
+    color: red;
+}
+.typography{
+     font-size: large;
+     font-family: 'Times New Roman';
+     color:black;
+
+}

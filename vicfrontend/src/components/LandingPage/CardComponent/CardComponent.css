@@ -1,0 +1,41 @@
+.phrma{
+   width: 200px;
+   height: 30px;
+   border-radius:10px;
+   color: red;
+   border-color: red;
+   background: transparent;
+}
+.phrmas{
+    color: red;
+    text-decoration: none;
+}
+
+
+.typo{
+    font-size: larger;
+    font-family: 'Times New Roman';
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    
+}
+.movec{
+    margin-left: 50px;
+}
+.allcons{
+    font-size: larger;
+    font-family: 'Times New Roman';
+    color:black;
+    text-decoration: none;
+    margin-top: 20px;
+} 
+.phrmasss{
+    width: 200px;
+    height: 50px;
+    border-radius:10px;
+    color: red;
+    border-color: red;
+    background: transparent;
+}
